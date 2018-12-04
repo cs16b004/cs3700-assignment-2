@@ -1,9 +1,5 @@
 =============================================================---=======================
 
-Respected Sir, we tried to implement ram based dbms  using yacc and lexer but
-could not get the bug we worked quite hard but due to failure of parser
-pivoted to top-down parsing (hard coded)
-
 use g++ main.cpp
 ./a.out
 only 
@@ -19,9 +15,4 @@ and naming that tuple type by adding another data field this_name;
 
 The tokenize function is used to tokenize query
 
-Given The time constraint plus the fact that yacc approach didn't worked we could have
-developed a dbms according to specification.
-
-parser and lexer files attached they are not working properly.
-Kindly Consider
 ==================================================-------=================================
